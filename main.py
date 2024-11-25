@@ -1,2 +1,2 @@
 print('good')
-print('allright')
+print('braa')
